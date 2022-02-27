@@ -1,0 +1,16 @@
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\variables.exe
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\variables.deps.json
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\variables.runtimeconfig.json
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\variables.runtimeconfig.dev.json
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\variables.dll
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\ref\variables.dll
+C:\Users\DERYA\Desktop\Practice\variables\bin\Debug\net5.0\variables.pdb
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.csproj.AssemblyReference.cache
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.AssemblyInfoInputs.cache
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.AssemblyInfo.cs
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.csproj.CoreCompileInputs.cache
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.dll
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\ref\variables.dll
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.pdb
+C:\Users\DERYA\Desktop\Practice\variables\obj\Debug\net5.0\variables.genruntimeconfig.cache
